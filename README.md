@@ -51,7 +51,7 @@
 
 bash
 Клонируйте репозиторий
-git clone https://github.com/Leonid-Necromant/turn-based-strategy-game.git
+git clone https://github.com/Leonid-Necromant/Turn-based-strategy-game-for-2-players.git
 cd turn-based-strategy-game
 
 Установите зависимости
